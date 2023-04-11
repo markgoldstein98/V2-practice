@@ -36,6 +36,7 @@ h1{
   border: 1px solid black;
 }
 
+/* Itt ez egy nav bar, amit ha görgetünk akkor jön a szöveggel, illetve az nav-bar elemi inline mivel ez egy block level element és töri a sort. */
 nav ul {
   list-style: none;
   margin: 0px;
